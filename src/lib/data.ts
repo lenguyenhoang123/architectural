@@ -21,7 +21,7 @@ export const blueprints: Blueprint[] = [
     price: 11490000,
     dimensions: 'A3',
     sqft: 0,
-    imageUrl: '/assets/2.png'
+    imageUrl: '/src/assets/2.png'
   },
   {
     id: '3',
@@ -31,7 +31,7 @@ export const blueprints: Blueprint[] = [
     price: 52990000,
     dimensions: '50m × 30m',
     sqft: 1500,
-    imageUrl: '/assets/3.png'
+    imageUrl: '/src/assets/3.png'
   },
   {
     id: '4',
@@ -41,7 +41,7 @@ export const blueprints: Blueprint[] = [
     price: 21990000,
     dimensions: 'A2',
     sqft: 0,
-    imageUrl: '/assets/4.png'
+    imageUrl: '/src/assets/4.png'
   },
   {
     id: '5',
@@ -51,7 +51,7 @@ export const blueprints: Blueprint[] = [
     price: 15990000,
     dimensions: 'A3',
     sqft: 0,
-    imageUrl: '/assets/5.png'
+    imageUrl: '/src/assets/5.png'
   },
   {
     id: '6',
@@ -61,7 +61,7 @@ export const blueprints: Blueprint[] = [
     price: 19490000,
     dimensions: 'A2',
     sqft: 0,
-    imageUrl: '/assets/6.png'
+    imageUrl: '/src/assets/6.png'
   },
   {
     id: '7',
@@ -71,7 +71,7 @@ export const blueprints: Blueprint[] = [
     price: 31990000,
     dimensions: 'A0',
     sqft: 200,
-    imageUrl: '/assets/7.png'
+    imageUrl: '/src/assets/7.png'
   },
   {
     id: '8',
@@ -81,7 +81,7 @@ export const blueprints: Blueprint[] = [
     price: 24990000,
     dimensions: 'A1',
     sqft: 0,
-    imageUrl: '/assets/8.png'
+    imageUrl: '/src/assets/8.png'
   },
   {
     id: '9',
@@ -91,7 +91,7 @@ export const blueprints: Blueprint[] = [
     price: 38990000,
     dimensions: 'A1',
     sqft: 0,
-    imageUrl: '/assets/9.png'
+    imageUrl: '/src/assets/9.png'
   },
   {
     id: '10',
@@ -101,7 +101,7 @@ export const blueprints: Blueprint[] = [
     price: 16990000,
     dimensions: 'A2',
     sqft: 0,
-    imageUrl: '/assets/2.png'
+    imageUrl: '/src/assets/2.png'
   },
   {
     id: '11',
@@ -111,7 +111,7 @@ export const blueprints: Blueprint[] = [
     price: 71990000,
     dimensions: 'A0',
     sqft: 5000,
-    imageUrl: '/assets/10.png'
+    imageUrl: '/src/assets/10.png'
   },
   {
     id: '12',
@@ -121,7 +121,7 @@ export const blueprints: Blueprint[] = [
     price: 43990000,
     dimensions: 'A1',
     sqft: 0,
-    imageUrl: '/assets/4.png'
+    imageUrl: '/src/assets/4.png'
   },
 ];
 
